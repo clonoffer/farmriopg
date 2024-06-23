@@ -1,0 +1,1616 @@
+Uri: https://resgatehojesuafarm.online/loja/
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\index.htm
+Content Type: text/html
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\css\all.min.css
+Content Type: text/css
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://resgatehojesuafarm.online/loja/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_128x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_128x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_192x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_192x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_216x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_216x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_64x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_64x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_708x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_708x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_708x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_708x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_708x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_708x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_708x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_708x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_708x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_708x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_708x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_708x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_708x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_708x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_708x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_708x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_800x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_800x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_853x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_853x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_853x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_853x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_128x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_128x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_192x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_192x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_64x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_64x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_110x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_110x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_128x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_128x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_192x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_192x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_55x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_55x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_64x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_64x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1000x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1000x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1100x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1100x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_120x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_120x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_144x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_144x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_180x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_180x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_216x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_216x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_240x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_240x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x-1.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_400x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_400x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_500x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_500x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_600x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_600x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_60x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_60x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_700x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_700x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_72x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_72x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_800x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_800x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_900x.webp
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_900x.webp
+Content Type: image/webp
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_120x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_120x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_144x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_144x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_180x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_180x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_216x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_216x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_240x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_240x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_288x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_288x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_288x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_288x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_400x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_400x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_500x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_500x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_600x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_600x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_60x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_60x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_700x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_700x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_708x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_708x-1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_708x.png?v=1716569802
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_708x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_72x.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_72x.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/AMEX.svg?v=156721050750723113511716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\AMEX.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/arrow-left.svg
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/arrow-right.svg
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/AURA.svg?v=74321338444638128441716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\AURA.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/BOLETO.svg?v=134186075353682252391716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\BOLETO.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/custom.js?v=165930397078196874451716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\custom.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/DINNERS.svg?v=43760574535310140211716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\DINNERS.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/DISCOVER.svg?v=51104008127175826311716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\DISCOVER.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/ELO.svg?v=57363376252194448211716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\ELO.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/flickity.js?v=4101124369061427901716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\flickity.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/google-site-seguro-pt.svg?v=155074155766319559741716569898
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\google-site-seguro-pt.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/HIPERCARD.svg?v=118215574350710381721716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\HIPERCARD.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/Iconseg.png?v=169004261544512003851716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\Iconseg.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/MASTERCARD.svg?v=103501794080103759821716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\MASTERCARD.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/parcelamento.css?v=103717487089465993121716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\parcelamento.css
+Content Type: text/css
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/PIX.svg?v=106757000572440841201716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\PIX.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/Reclameaqui.svg?v=26705177644068796991716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\Reclameaqui.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/SSL.svg?v=141831784581712243861716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\SSL.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/theme.min.css?v=12958267422847326531716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\theme.min.css
+Content Type: text/css
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/theme.min.js?v=56138962791612257471716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\theme.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/vendor.js?v=162644391628613446311716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\vendor.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/VISA.svg?v=7465368297978241971716569899
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\VISA.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/zoom-cursor.svg
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\zoom-cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/checkouts/internal/preloads.js?locale=pt-BR&shop_id=87674356032
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\checkouts\internal\preloads.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/css/size-charts-relentless.css
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\css\size-charts-relentless.css
+Content Type: text/css
+
+Uri: https://resgatehojesuafarm.online/loja/img/arrows1.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\arrows1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/arrows2.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\arrows2.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/protractor.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\protractor.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/ruler1.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\ruler1.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/ruler2.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\ruler2.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/ruler3.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\ruler3.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/img/ruler4.png
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\img\ruler4.png
+Content Type: image/png
+
+Uri: https://resgatehojesuafarm.online/loja/ionicons%405.5.2/dist/ionicons/ionicons.esm.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ionicons@5.5.2\dist\ionicons\ionicons.esm.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/ionicons%405.5.2/dist/ionicons/ionicons.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\ionicons@5.5.2\dist\ionicons\ionicons.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgatehojesuafarm.online/loja/products/mala.oembed
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\products\mala.oembed
+Content Type: text/plain
+
+Uri: https://resgatehojesuafarm.online/loja/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\resgatehojesuafarm.online\loja\scripts\utms\latest.js
+Content Type: application/x-javascript
+
