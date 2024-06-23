@@ -1,0 +1,456 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\noticiasja.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\noticiasja.site\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://noticiasja.site/htdocs_error/something-lost.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\htdocs_error\something-lost.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/htdocs_error/style.css
+File Name: C:\Downloaded Web Sites\noticiasja.site\htdocs_error\style.css
+Content Type: text/css
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\index.htm
+Content Type: text/html
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\css\all.min.css
+Content Type: text/css
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_216x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_216x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/1-Photoroom.png-Photoroom_708x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\1-Photoroom.png-Photoroom_708x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/2-Photoroom.png-Photoroom_708x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\2-Photoroom.png-Photoroom_708x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/4-Photoroom.png-Photoroom_708x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\4-Photoroom.png-Photoroom_708x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_1200x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468376-1200-1200_71d242ec-ffce-449f-abe8-d81846c2134d_288x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_1200x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468377-1200-1200_6108088b-24fb-47d9-8444-362e037facf8_288x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_1200x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468378-1200-1200_17fc42eb-3cac-43ec-857f-2ded30b5179d_288x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_1200x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468379-1200-1200_b1dc3767-041d-4b67-b947-35f2387ae66e_288x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_1200x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x8754.webp?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\468380-1200-1200_7311da04-8b45-4829-b503-6fb588879254_288x8754.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/5-Photoroom.png-Photoroom_708x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\5-Photoroom.png-Photoroom_708x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/6-Photoroom.png-Photoroom_853x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\6-Photoroom.png-Photoroom_853x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO1_11f6239b-9d0b-4716-b5fa-efb1949351c8_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_216x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683148RP-Mala-Farm-Me-Leva-Lenco-Magia-Tropical-P_VARIACAO2_ec971307-3ba4-40a1-a20b-597c5e6baddd_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO1_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_165x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_216x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO2_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO3_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO4_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO6_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_1200x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x9cf3.webp?v=1716569801
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\683151RP-Mala-Farm-Me-Leva-Rigida-Revoada-Tropical-P_VARIACAO8_288x9cf3.webp
+Content Type: image/webp
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_288x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_288x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/files/7-Photoroom.png-Photoroom_708x8754.png?v=1716569802
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\files\7-Photoroom.png-Photoroom_708x8754.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/AMEXc3b9.svg?v=156721050750723113511716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\AMEXc3b9.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/arrow-left.svg
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/arrow-right.svg
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/AURA2e3c.svg?v=74321338444638128441716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\AURA2e3c.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/BOLETO584f.svg?v=134186075353682252391716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\BOLETO584f.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/custom5909.js?v=165930397078196874451716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\custom5909.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/DINNERS62c3.svg?v=43760574535310140211716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\DINNERS62c3.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/DISCOVERe206.svg?v=51104008127175826311716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\DISCOVERe206.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/ELO0503.svg?v=57363376252194448211716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\ELO0503.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/flickity8aa9.js?v=4101124369061427901716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\flickity8aa9.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/google-site-seguro-pt98f9.svg?v=155074155766319559741716569898
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\google-site-seguro-pt98f9.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/HIPERCARD17eb.svg?v=118215574350710381721716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\HIPERCARD17eb.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/Iconseg6b98.png?v=169004261544512003851716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\Iconseg6b98.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/MASTERCARDe564.svg?v=103501794080103759821716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\MASTERCARDe564.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/parcelamentodc8d.css?v=103717487089465993121716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\parcelamentodc8d.css
+Content Type: text/css
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/PIX08af.svg?v=106757000572440841201716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\PIX08af.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/Reclameaqui25cc.svg?v=26705177644068796991716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\Reclameaqui25cc.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/SSL1d78.svg?v=141831784581712243861716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\SSL1d78.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/theme.min2fe1.css?v=12958267422847326531716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\theme.min2fe1.css
+Content Type: text/css
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/theme.min745f.js?v=56138962791612257471716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\theme.min745f.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/vendorbd24.js?v=162644391628613446311716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\vendorbd24.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/VISAf15b.svg?v=7465368297978241971716569899
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\VISAf15b.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shop/t/2/assets/zoom-cursor.svg
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shop\t\2\assets\zoom-cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/checkouts/internal/preloadsed82.js?locale=pt-BR&shop_id=87674356032
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\checkouts\internal\preloadsed82.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/css/size-charts-relentless.css
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\css\size-charts-relentless.css
+Content Type: text/css
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/arrows1.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\arrows1.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/arrows2.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\arrows2.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/protractor.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\protractor.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/ruler1.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\ruler1.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/ruler2.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\ruler2.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/ruler3.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\ruler3.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/img/ruler4.png
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\img\ruler4.png
+Content Type: image/png
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/index-2.html
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\index-2.html
+Content Type: text/html
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ionicons%405.5.2/dist/ionicons/ionicons.esm.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ionicons@5.5.2\dist\ionicons\ionicons.esm.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/ionicons%405.5.2/dist/ionicons/ionicons.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\ionicons@5.5.2\dist\ionicons\ionicons.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/products/mala.oembed
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\products\mala.oembed
+Content Type: text/plain
+
+Uri: https://noticiasja.site/mala2/resgatehojesuafarm.online/loja/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\noticiasja.site\mala2\resgatehojesuafarm.online\loja\scripts\utms\latest.js
+Content Type: application/x-javascript
+
